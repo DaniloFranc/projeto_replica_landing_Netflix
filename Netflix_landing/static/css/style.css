@@ -98,13 +98,14 @@
 .button {
     width: 72.42px;
     height: 32px;
-    background-color: #DB202C;
+    background-color: #f00d1c;
     color: #fff;
     border: none;
     font-size: 16px;
     font-weight: bold;
     cursor: pointer;
-    margin-left: 10px;    
+    margin-left: 10px; 
+    border-radius: 5px;   
 }
 
 .dropdown, .button {
@@ -159,13 +160,15 @@
 .button-02{
     width: 172.16px;
     height: 56px;
-    background-color: #DB202C;
+    background-color: #f00d1c;
     color: #fff;
     border: none;
     font-size: 24px;
     font-weight: bold;
     cursor: pointer;
     margin-left: 10px; 
+    border-radius: 5px;
+    
 }
 
 .estilo-caixa{
@@ -174,22 +177,25 @@
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.158);   
     border: none;
+    
 }
 
 .texto-2{
     width: 1400px;
     height: 30px; 
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 400;
     color: #fff;
 }
 
 .texto-3{
     font-weight: 400;
-    font-size: 1.25rem;
+    font-size: 24px;
     line-height: 1.875rem;
     margin-bottom: 30px;
     color: #fff;
 }
+
+
 
 
